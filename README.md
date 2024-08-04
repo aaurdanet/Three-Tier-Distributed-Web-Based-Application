@@ -35,7 +35,7 @@ Installation and Setup
 
     bash
 
-git clone https://github.com/yourusername/three-tiered-web-application.git
+git clone https://github.com/yourusername/three-tier-web-application.git
 
 Database Setup:
 
