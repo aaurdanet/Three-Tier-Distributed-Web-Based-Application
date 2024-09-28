@@ -1,7 +1,8 @@
 # Three-Tier-Distributed-Web-Based-Application
 
 This repository contains a three-tiered web application developed as a project to demonstrate various techniques in building distributed web-based applications. The application uses Java Servlets and JSP technology, running on a Tomcat server, to access and maintain a persistent MySQL database via JDBC.
-Objectives
+
+Objectives:
 
 The primary goal of this project is to develop a three-tier web-based application that:
 
